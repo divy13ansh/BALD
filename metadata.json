@@ -1,0 +1,6 @@
+{
+  "name": "Chitkara Campus 3D",
+  "description": "Interactive 3D campus exploration and quest game prototype for Chitkara University Punjab (Rajpura).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
